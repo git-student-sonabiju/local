@@ -1,1 +1,1 @@
-# local
+My project topic was "Human Activity Recognition Model Analysis With Interpretation Of Models". It uses three different machine learning models such as logistic regression,random forest and support vector classifier. XAI method LIME is used for comparing these three different ML models and it gives the accuracy scores for each model.
